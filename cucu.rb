@@ -1,4 +1,0 @@
-def cucu
-  'cucu'
-end
-
