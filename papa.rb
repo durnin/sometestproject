@@ -6,3 +6,11 @@ class Papa
   end
 end
 
+class Child < Papa
+  def child
+    "child
+  end
+end
+
+# AWESOME!
+
